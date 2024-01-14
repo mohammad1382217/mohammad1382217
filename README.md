@@ -7,16 +7,17 @@
 
 - 🔭 I’m currently working on **Management_System_Customers**
 
-- 🌱 I’m currently learning **Html css js ts nextjs sass tailwind**
+- 🌱 I’m currently learning **Html css js React ts nextjs sass tailwind**
 
-- 💬 Ask me about **Html css js ts React**
+- 💬 Ask me about **Html css js React ts nextjs sass tailwind**
+
 
 - 📫 How to reach me **mohammad1382217@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mohammad-mohammadzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammad-mohammadzade" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mohammad-mohammadzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-mohammadzade" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21016670/mohammad-mohammadzade" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mohammad-mohammadzade" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
