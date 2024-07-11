@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohammad1382217" alt="mohammad1382217" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [aranasayesh.ir](aranasayesh.ir)
+- 👨‍💻 All of my projects are available at
+<a href="https://aranasayesh.ir" target="blank" >aranasayesh.ir</a>
 
 - 🔭 I’m currently working on **Iranet**
 
