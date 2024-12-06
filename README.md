@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at
 <a href="https://aranasayesh.ir" target="blank" >aranasayesh.ir</a><br/>
-<a href="https://front-irannet.liara.run/" target="blank" >front-irannet.liara.run</a>
+<a href="https://puyar-projects.ir/" target="blank" >[puyar-project.ir](https://puyar-projects.ir/)</a>
 
 - 🔭 I’m currently working on **Ziva**
 
