@@ -10,7 +10,7 @@
 <a href="https://puyar-projects.ir/" target="blank" >[puyar-project.ir](https://puyar-projects.ir/)</a><br/>
 <a href="https://zivaticket.com/" target="blank" >[zivaticket.com](https://zivaticket.com/)</a>
 
-- 🔭 I’m currently working on **Amoozim**
+- 🔭 I’m currently working on **Amoozim** and **Comment**
 
 - 🌱 I’m currently learning **Html css js React ts nextjs sass tailwind**
 
