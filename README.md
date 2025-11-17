@@ -7,9 +7,10 @@
 
 - 👨‍💻 All of my projects are available at
 <a href="https://aranasayesh.ir" target="blank" >aranasayesh.ir</a><br/>
-<a href="https://puyar-projects.ir/" target="blank" >[puyar-project.ir](https://puyar-projects.ir/)</a>
+<a href="https://puyar-projects.ir/" target="blank" >[puyar-project.ir](https://puyar-projects.ir/)</a><br/>
+<a href="https://zivaticket.com/" target="blank" >[zivaticket.com](https://zivaticket.com/)</a>
 
-- 🔭 I’m currently working on **Ziva**
+- 🔭 I’m currently working on **Amoozim**
 
 - 🌱 I’m currently learning **Html css js React ts nextjs sass tailwind**
 
